@@ -28,7 +28,7 @@ A simple web-based chat application built using **Node.js**, **Express**, and **
 ### 🧾 All Chats Page  
 Displays all messages with options to edit, delete, or view individual chats.
 
-![All Chats Page](./Landing.png)
+![All Chats Page](images/Landing.png)
 
 ---
 
