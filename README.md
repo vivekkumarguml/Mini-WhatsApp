@@ -28,21 +28,21 @@ A simple web-based chat application built using **Node.js**, **Express**, and **
 ### 🧾 All Chats Page  
 Displays all messages with options to edit, delete, or view individual chats.
 
-![All Chats Page](./images/Landing.png)
+![All Chats Page](./images/Landing.jpg)
 
 ---
 
 ### 📝 New Chat Form  
 Allows users to create and send a new chat message.
 
-![New Chat Form](.images/New_chat.png)
+![New Chat Form](.images/New_chat.jpg)
 
 ---
 
 ### ✏️ Edit Chat Page  
 Edit the content of an existing message.
 
-![Edit Chat Page](.images/Editjpg.png)
+![Edit Chat Page](.images/Editjpg.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ Edit the content of an existing message.
    
 ---
 ## 🧠 Folder Structure
-![New Chat Form](.images/Project_Structure.png)
+![New Chat Form](.images/Project_Structure.jpg)
 
 ## Author
 Made with ❤️ by  VIVEK KUMAR
