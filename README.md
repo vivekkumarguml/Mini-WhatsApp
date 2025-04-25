@@ -35,14 +35,14 @@ Displays all messages with options to edit, delete, or view individual chats.
 ### 📝 New Chat Form  
 Allows users to create and send a new chat message.
 
-![New Chat Form](.images/New_chat.jpg)
+![New Chat Form](./images/New_chat.jpg)
 
 ---
 
 ### ✏️ Edit Chat Page  
 Edit the content of an existing message.
 
-![Edit Chat Page](.images/Editjpg.jpg)
+![Edit Chat Page](./images/Editjpg.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ Edit the content of an existing message.
    
 ---
 ## 🧠 Folder Structure
-![New Chat Form](.images/Project_Structure.jpg)
+![New Chat Form](./images/Project_Structure.jpg)
 
 ## Author
 Made with ❤️ by  VIVEK KUMAR
